@@ -1,2 +1,2 @@
 # Da-hOoD-Manager
-Some random thing i made in unity because i like making fun of friends and i was bored idk
+Its better if you don't ask, and i do not know how to make apps to yes i made this in unity.
